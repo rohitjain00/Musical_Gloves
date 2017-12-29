@@ -2,6 +2,7 @@
 Arduino project to make music out of gloves.It produces sounds of Do-Re-Me-Sa.
 # prerequisite
 Some basic knowlege about using arduino which includes software installation and uploading code.For beginners visit https://www.arduino.cc/en/Guide/HomePage
+
 In the Arduino IDE, navigate to Sketch > Include Library. At the top of the drop-down list, select the option to "Add .ZIP Library''.Select the "Keypad.zip" file.
 # Working
 In this project, I've used Keypad.h header file and used input from gloves as a keypad where four fingers from each hand is a row and the thumb act as a column.
